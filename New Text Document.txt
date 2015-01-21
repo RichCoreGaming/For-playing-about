@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-I am testing with a first add
-
-
-this is now the second update of this file
-
-
-This is a third commit for testing
-=======
-I am testing with a first add
->>>>>>> parent of 6e8fce2... This is the second commit.
+I have now replaced all the text in this document
